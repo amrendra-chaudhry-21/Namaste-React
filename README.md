@@ -8,8 +8,8 @@
 📖 Theory Assignment Solution\
 👨‍💻 Coding Assignment Solution\
 📟📝 Digital and Handwritten Notes\
-📟 Digital Notes of Live Class Credit\ 
-📝Hand Written Notes of Live Class Credit
+📟 Digital Notes of Live Class Credit.\ 
+📝Hand Written Notes of Live Class Credit.\
 
 
 ### `Amrendra Chaudhary`
