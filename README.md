@@ -4,12 +4,12 @@
 
 ## Chapter 01 - Inception (Date: DD-MM-YYYY)
 
-📘 Assignment
-📖 Theory Assignment Solution
-👨‍💻 Coding Assignment Solution
-📟📝 Digital and Handwritten Notes
-📟 Digital Notes of Live Class Credit - 
-📝Hand Written Notes of Live Class Credit -
+📘 Assignment\
+📖 Theory Assignment Solution\
+👨‍💻 Coding Assignment Solution\
+📟📝 Digital and Handwritten Notes\
+📟 Digital Notes of Live Class Credit -\ 
+📝Hand Written Notes of Live Class Credit -\
 
 
 ### `Amrendra Chaudhary`
