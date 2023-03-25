@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+❤️ Namaste React 🙏
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[Namaste React] Live Course from Zero to Hero 🚀 by [Akshay Saini](Founder of NamasteDev). This repository for Assignment & Class Notes taken during this First Live course.(https://learn.namastedev.com/courses/namaste-react-live).
 
 ## Available Scripts
 
