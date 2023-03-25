@@ -1,8 +1,8 @@
 ### `❤️ Namaste React 🙏`
 
- <a href="https://learn.namastedev.com/courses/namaste-react-live" target="blank">*Namaste React Live Course*  ### `from Zero to Hero 🚀 by` <a href="https://www.linkedin.com/in/akshaymarch7/" target="blank">*Akshay Saini* ### `(Founder of NamasteDev). This repository for Assignment & Class Notes taken during this First Live course.`
+ <a href="https://learn.namastedev.com/courses/namaste-react-live" target="blank"> *Namaste React Live Course*  ###`from Zero to Hero 🚀 by`<a href="https://www.linkedin.com/in/akshaymarch7/" target="blank">*Akshay Saini* ###`(Founder of NamasteDev). This repository for Assignment & Class Notes taken during this First Live course.`
 
-## Available Scripts
+## Chapter 01 - Inception (Date: DD-MM-YYYY)
 
 In the project directory, you can run:
 
